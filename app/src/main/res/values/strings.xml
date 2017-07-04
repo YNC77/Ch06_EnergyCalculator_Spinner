@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ch06_EnergyCalculator_Spinner</string>
+    <string name="chooseHint">Please Choose</string>
+    <string name="showData">Burn Calories (kcal/kg/hr):</string>
+    <string name="rate">Rate</string>
+    <string name="weightHint">Enter the Weight(kg):</string>
+    <string name="hourHint">Enter Hours of Exercise:</string>
+    <string name="sum">Burn 0 Calories</string>
+    <string name="btnCal">Calcuate</string>
+    <string-array name="sportMenu">
+        <item>Go walking(4km/hr)</item>
+        <item>Go jogging(6km/hr)</item>
+        <item>Riding a bike(10km/hr)</item>
+    </string-array>
+</resources>
